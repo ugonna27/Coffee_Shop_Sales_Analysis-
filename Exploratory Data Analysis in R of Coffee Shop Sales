@@ -1,4 +1,4 @@
-# Exploratory data analysis of coffee shop sales data
+# Exploratory data analysis of coffee shop sales data 
 
 eda <- read.csv("coffee shop sales.csv")
 View(eda)
