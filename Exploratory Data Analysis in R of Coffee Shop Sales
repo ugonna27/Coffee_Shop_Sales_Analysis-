@@ -80,6 +80,8 @@ eda_modified %>%
   ggplot(aes(x = daywk, y = no_of_Sale)) +
   geom_bar(stat = 'identity', fill = "lightblue")
 
+![Image](https://github.com/user-attachments/assets/e8ed7948-14e2-4a94-9e1d-d53abf7fd949)
+
 # NOTE: The highest sales are made on Thursdays and Fridays and followed by Mondays 
 
 # NEXT: EXPLORE PRODUCTS IN COFFEE SHOP
